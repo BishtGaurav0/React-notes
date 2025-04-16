@@ -7,7 +7,7 @@ This simple React application is designed to provide quick reference notes for d
 🎨 Frontend (Learning Tool)
 
 ## 🌐 Deployed App  
-🔗 Live App: [https://bishtgaurav0.github.io/notes1/](https://bishtgaurav0.github.io/notes1/)  
+🔗 Live App: [https://youthful-liskov-7d0379.netlify.app/](https://youthful-liskov-7d0379.netlify.app/)  
 
 
 ## 📁 Directory Structure
