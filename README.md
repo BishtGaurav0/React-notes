@@ -14,10 +14,7 @@ This simple React application is designed to provide quick reference notes for d
 react-notes/ ├─ public/ │ └─ index.html ├─ src/ │ ├─ App.js │ └─ index.js ├─ .gitignore ├─ package.json ├─ package-lock.json └─ README.md
 
 ## 🎥 Video Walkthrough of the Project  
-<p align="center">
-  <a href="https://drive.google.com/file/d/1dcB0HOdTlS9f1vCX_vQPem_Flj6KocNM/view">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch the walkthrough video" width="600">
-  </a>
+![Image](https://github.com/user-attachments/assets/1a72a910-a2f0-49e9-9813-ac7b4629b025)
 </p>
 
 
