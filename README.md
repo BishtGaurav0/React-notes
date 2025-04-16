@@ -13,7 +13,12 @@ This simple React application is designed to provide quick reference notes for d
 ## 📁 Directory Structure
 react-notes/ ├─ public/ │ └─ index.html ├─ src/ │ ├─ App.js │ └─ index.js ├─ .gitignore ├─ package.json ├─ package-lock.json └─ README.md
 
-
+## 🎥 Video Walkthrough of the Project  
+<p align="center">
+  <kbd>
+<img src="https://drive.google.com/file/d/1dcB0HOdTlS9f1vCX_vQPem_Flj6KocNM/view"></img>
+  </kbd>
+</p>
 
 ---
 
