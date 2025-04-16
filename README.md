@@ -15,10 +15,11 @@ react-notes/ ├─ public/ │ └─ index.html ├─ src/ │ ├─ App.js 
 
 ## 🎥 Video Walkthrough of the Project  
 <p align="center">
-  <kbd>
-<img src="https://drive.google.com/file/d/1dcB0HOdTlS9f1vCX_vQPem_Flj6KocNM/view"></img>
-  </kbd>
+  <a href="https://drive.google.com/file/d/1dcB0HOdTlS9f1vCX_vQPem_Flj6KocNM/view">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch the walkthrough video" width="600">
+  </a>
 </p>
+
 
 ---
 
