@@ -8,8 +8,7 @@ This simple React application is designed to provide quick reference notes for d
 
 ## 🌐 Deployed App  
 🔗 Live App: [https://bishtgaurav0.github.io/notes1/](https://bishtgaurav0.github.io/notes1/)  
-🛠️ Backend: —  
-🗄️ Database: —  
+
 
 ## 📁 Directory Structure
 react-notes/ ├─ public/ │ └─ index.html ├─ src/ │ ├─ App.js │ └─ index.js ├─ .gitignore ├─ package.json ├─ package-lock.json └─ README.md
